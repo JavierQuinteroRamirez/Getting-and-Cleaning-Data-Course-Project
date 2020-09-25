@@ -1,5 +1,5 @@
 
-#"CodeBook: Getting and Cleaning Data - Course Project"
+#CodeBook: Getting and Cleaning Data - Course Project
 
 
 Running run_analysis.R script will complete the following steps:
