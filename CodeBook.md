@@ -1,8 +1,5 @@
 ---
 title: "CodeBook: Getting and Cleaning Data - Course Project"
-output:
-  html_document:
-    df_print: paged
 ---
 
 Running run_analysis.R script will complete the following steps:
