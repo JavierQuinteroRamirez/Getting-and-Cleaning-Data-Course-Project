@@ -1,9 +1,8 @@
+#   Coursera Data Science Johns Hopkins University
 
-                                  Coursera Data Science Johns Hopkins University
+## Course 3 => Getting and Cleaning Data - Course Project
 
-Course 3 => Getting and Cleaning Data - Course Project
-
-This is README file from Getting and Cleaning Data Course Project. We can find here the instructions on how to get the analysis on Human Activity Recognition extracted from wearable devices dataset.
+###This is README file from Getting and Cleaning Data Course Project. We can find here the instructions on how to get the analysis on Human Activity Recognition extracted from wearable devices dataset.
 
 
     * CodeBook.md => The variables, the data and the process to clean the data according to the requirements established for this activity are described here.
